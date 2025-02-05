@@ -1,1 +1,2 @@
 text 3 added
+bug fixed in 3
