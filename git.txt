@@ -1,0 +1,12 @@
+Git is a distributed version control system that helps you track changes in your files or codebase. It allows you to:
+
+1.Keep a history of changes.
+2.Collaborate with others, merging each other’s work seamlessly (with branches and merges).
+3.Revert or compare old versions of your project.
+
+Basic git terminology
+
+1. Repository(Repo):A folder or project tracked by git
+2. Commit: A SnapShot of your project changes.
+3. Staging Area: A place where you put your code before Commit.
+4. Branch: A seperate timeline of commits.
