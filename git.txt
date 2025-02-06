@@ -1,0 +1,34 @@
+What Is Git?
+
+Git is a distributed version control system that helps you track changes in your files or codebase. It allows you to:
+
+1.Keep a history of changes.
+2.Collaborate with others, merging each other’s work seamlessly (with branches and merges).
+3.Revert or compare old versions of your project.
+
+step 1:git init
+step 2:git status
+step 3:git add .
+step 4:git commit -m "Initial commit"
+step 5:git log
+step 6:git push
+
+git remote add origin https://github.com/yourusername/your-repo.git
+
+git push -u origin main
+
+git checkout -b new-feature
+# Switch back to main
+git checkout main
+# Merge new-feature into main
+git merge new-feature
+#delete branch
+git branch -d new-feature
+git pull origin main
+
+
+git log --oneline
+# Copy the commit hash you want to revert
+
+# 2. Revert that commit
+git revert <commit-hash>
