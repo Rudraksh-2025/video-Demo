@@ -1,4 +1,0 @@
-this is text2 html
-header
-bug fixed in header
-footer

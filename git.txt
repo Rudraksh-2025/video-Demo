@@ -10,3 +10,14 @@ Basic git terminology
 2. Commit: A SnapShot of your project changes.
 3. Staging Area: A place where you put your code before Commit.
 4. Branch: A seperate timeline of commits.
+
+Step 1. git init
+Step 2. git status
+Step 3. git add . # Add all files in the project
+Step 4. git commit -m "Initial commit"
+Step 5. git remote add origin https://github.com/yourusername/your-repo.git
+Step 6. git push -u origin main
+
+Branches allow you to experiment or develop new features without affecting the main code.
+
+            
