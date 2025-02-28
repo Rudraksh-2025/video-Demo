@@ -1,1 +1,1 @@
-print('helo world')
+print('welcome to time pass')
